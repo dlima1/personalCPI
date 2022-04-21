@@ -1,0 +1,14 @@
+{
+	"from": "12345",
+	"to": [
+		"123456789",
+		"987654321"
+	],
+	"body": "Hi ${name}! You miss 100% of the shots you don't take. Are you in for next week?",
+	"parameters": {
+		"name": {
+			"123456789": "Joe",
+			"default": "there"
+		}
+	}
+}
