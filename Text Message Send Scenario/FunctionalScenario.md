@@ -30,7 +30,7 @@ Iflow implementation
 https://blogs.sap.com/2018/07/23/sap-marketing-cloud-connect-any-text-message-service-provider-to-sap-marketing-cloud-chapter-1-send-sms/
 
 
-## <a id="componentes" /> Componentes Alterados
+## <a id="componentes" /> Changed/Created Components
 
 | Objeto | Componente | Detalhes |
 |---------|-----------|----------|
