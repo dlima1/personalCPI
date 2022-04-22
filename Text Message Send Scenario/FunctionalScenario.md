@@ -1,3 +1,6 @@
+# SMS integration between MKT Cloud and Sinch
+
+## <a id="functionalOverview" /> Functional Overview
 https://help.sap.com/docs/SAP_MARKETING/0204678aad934e5da0ecf4d40ba38ca9/186c8256e63b763de10000000a4450e5.html?version=1909.YMKT&locale=en-US
 Scope Item: Permission Marketing (1T1)
 You can perform the following main integration activities for this scope item:
@@ -25,3 +28,10 @@ https://help.sap.com/docs/SAP_MARKETING_CLOUD/0f9408e4921e4ba3bb4a7a1f75f837a7/c
 
 Iflow implementation
 https://blogs.sap.com/2018/07/23/sap-marketing-cloud-connect-any-text-message-service-provider-to-sap-marketing-cloud-chapter-1-send-sms/
+
+
+## <a id="componentes" /> Componentes Alterados
+
+| Objeto | Componente | Detalhes |
+|---------|-----------|----------|
+|Script|[BOEx_DocumentoVenta](github.com/vertracx/SquadSalesService/blob/main/Concha%20y%20Toro/Cloud%20for%20Customer/Melhorias%20Pedidos%20de%20Venda/%5BRN_PV25%5D%20Criar%20campo%20Regional/BOEx_DocumentoVenta.xbo)|Alteração de script para adicionar campo UUID Regional|
