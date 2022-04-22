@@ -1,4 +1,5 @@
 # SMS integration between MKT Cloud and Sinch
+1. [Functional Overview](#functionalOverview)
 
 ## <a id="functionalOverview" /> Functional Overview
 https://help.sap.com/docs/SAP_MARKETING/0204678aad934e5da0ecf4d40ba38ca9/186c8256e63b763de10000000a4450e5.html?version=1909.YMKT&locale=en-US
