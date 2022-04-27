@@ -7,7 +7,7 @@ Scope Item: Permission Marketing (1T1)
 You can perform the following main integration activities for this scope item:
 Marketing – Campaign Execution E-Mail Integration (SAP_COM_0016) integration scenario. For more information, see Setting Up Service Provider for Emails and Text Messages.
 
-Service Provider and Available Features
+<h1>Service Provider and Available Features</h1>
 
 Setting up sinch
 
