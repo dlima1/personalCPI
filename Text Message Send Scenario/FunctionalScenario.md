@@ -1,6 +1,6 @@
 # SMS integration between MKT Cloud and Sinch
 <ol>
-  <li> <a [Functional Overview](#functionalOverview) /> </li>
+  1.[Functional Overview](#functionalOverview)
 </ol>
   
 ## <h1 id="functionalOverview">Functional Overview</h1> 
