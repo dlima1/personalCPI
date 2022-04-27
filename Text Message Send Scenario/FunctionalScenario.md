@@ -1,15 +1,15 @@
 # SMS integration between MKT Cloud and Sinch
 1. [Functional Overview](#functionalOverview)
 
-## <a id="functionalOverview" /> Functional Overview
+## <h1 id="functionalOverview">Functional Overview</h1> 
 https://help.sap.com/docs/SAP_MARKETING/0204678aad934e5da0ecf4d40ba38ca9/186c8256e63b763de10000000a4450e5.html?version=1909.YMKT&locale=en-US
 Scope Item: Permission Marketing (1T1)
 You can perform the following main integration activities for this scope item:
 Marketing – Campaign Execution E-Mail Integration (SAP_COM_0016) integration scenario. For more information, see Setting Up Service Provider for Emails and Text Messages.
 
-<h1>Service Provider and Available Features</h1>
+<h2 id="serviceProviders">Service Provider and Available Features</h2>
 
-Setting up sinch
+Sinch - Setting it up 
 
 In detail the following steps happen:
 The marketing expert executes a text message campaign.
@@ -31,7 +31,7 @@ Iflow implementation
 https://blogs.sap.com/2018/07/23/sap-marketing-cloud-connect-any-text-message-service-provider-to-sap-marketing-cloud-chapter-1-send-sms/
 
 
-## <a id="componentes" /> Changed/Created Components
+## <h1 id="componentes">Changed/Created Components</h1> 
 
 | Objeto | Componente | Detalhes |
 |---------|-----------|----------|
