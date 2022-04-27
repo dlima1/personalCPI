@@ -8,8 +8,14 @@ You can perform the following main integration activities for this scope item:
 Marketing – Campaign Execution E-Mail Integration (SAP_COM_0016) integration scenario. For more information, see Setting Up Service Provider for Emails and Text Messages.
 
 <h2 id="serviceProviders">Service Provider and Available Features</h2>
+Comparison between different service providers
+https://answers.sap.com/questions/588831/sap-digital-interconnect-vs-amazon-ses-vs-3rd-part.html 
+
 
 Sinch - Setting it up 
+
+Note explaining how to configure mkt communication system and channel to connect with sinch provider
+https://launchpad.support.sap.com/#/notes/3139793
 
 In detail the following steps happen:
 The marketing expert executes a text message campaign.
@@ -24,12 +30,16 @@ Based on the interactions the system updates marketing permissions
 Generic Email and Text Message Integration
 https://help.sap.com/docs/SAP_MARKETING_CLOUD/0f9408e4921e4ba3bb4a7a1f75f837a7/929b31776e0040dfbd1a553913c88756.html?locale=en-US
 
+## <h1 id="technicalImplementation">Technical Implementation</h1> 
+
 Text Message: Send
 https://help.sap.com/docs/SAP_MARKETING_CLOUD/0f9408e4921e4ba3bb4a7a1f75f837a7/c2a5ddf39c14465fab2bc474370d848d.html?locale=en-US
 
 Iflow implementation
 https://blogs.sap.com/2018/07/23/sap-marketing-cloud-connect-any-text-message-service-provider-to-sap-marketing-cloud-chapter-1-send-sms/
 
+sinch SMS api documentation
+https://developers.sinch.com/docs/sms/ 
 
 ## <h1 id="componentes">Changed/Created Components</h1> 
 
